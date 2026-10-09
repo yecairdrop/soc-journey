@@ -20,7 +20,7 @@ This repository documents my learning **day by day**: what I studied, what I pra
 ## Progress – Phase 1 (14 days)
 | Day | Topic | Status |
 | --- | --- | --- |
-| 01 | Networking I – OSI, TCP/IP, Wireshark | ⬜ |
+| 01 | Networking I – OSI, TCP/IP, Wireshark | 🟡 |
 | 02 | Networking II – DNS, HTTP, ports | ⬜ |
 | 03 | Linux & log analysis with grep/awk | ⬜ |
 | 04 | Windows Event Logs | ⬜ |
