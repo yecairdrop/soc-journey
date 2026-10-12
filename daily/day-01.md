@@ -1,6 +1,6 @@
 # Day 01 – Networking I: How Networks Work
 
-**Date:** 2026-10-09 · **Status:** 🟡 In progress
+**Date:** 2026-10-09 · **Status:** ✅ Done
 
 ## Sources
 - Practical Networking – *Networking Fundamentals*, Lesson 1a: Network Devices – Hosts, IP Addresses, Networks
